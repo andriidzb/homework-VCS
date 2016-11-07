@@ -14,4 +14,9 @@ https://github.com/cursor-education/welcome-to-github/pull/155/commits/f5984f353
 ![](http://i.piccy.info/i9/5eb0210ae66dcfbac0c633ae13154ae2/1478533761/177410/1086149/Bez_men_.png)
 ![](http://i.piccy.info/i9/2957eef9702240f084584b96c4832d64/1478533830/160878/1086149/Bez_m2en_.jpg)
 
-5.
+
+![](http://i.piccy.info/i9/91dfbcdafc5090913fb0a47b3d2ec5cc/1478537064/138047/1086149/Bez_men_.png)
+![](http://i.piccy.info/i9/f91780046e95296d797939bfe4301ad8/1478537104/135211/1086149/Bez_me_in_.png)
+5 завдання (симуляція колективної роботи чомусь не приймає)
+
+
