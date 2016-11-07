@@ -6,7 +6,7 @@ https://github.com/cursor-education/welcome-to-github/pull/155/commits/c8c5170ce
 2. https://github.com/andriydzb
 
 3.
-Створив папку personal/andriy.dziuba з текстовим файлом andriy.txt 
+Створив папку personal/andriy.dziuba з текстовим файлом dziuba.txt 
 https://github.com/cursor-education/welcome-to-github/pull/155/commits/c62d04ada2e05661787a3355ea3b9336a273abcd
 відредагував файл list-of-users.txt, додавши своє ім'я та прізвище
 https://github.com/cursor-education/welcome-to-github/pull/155/commits/f5984f353d5680e0100716fa8fc8374d58a30bea
