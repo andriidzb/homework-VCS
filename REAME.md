@@ -8,9 +8,8 @@ https://github.com/cursor-education/welcome-to-github/pull/168/commits/ab79f7922
 
 3.
 Створив папку personal/Andriy.Dziuba з текстовим файлом dziuba.txt 
-https://github.com/cursor-education/welcome-to-github/pull/155/commits/c62d04ada2e05661787a3355ea3b9336a273abcd
-відредагував файл list-of-users.txt, додавши своє ім'я та прізвище
-https://github.com/cursor-education/welcome-to-github/pull/155/commits/f5984f353d5680e0100716fa8fc8374d58a30bea
+https://github.com/cursor-education/welcome-to-github/pull/172/commits/434beffa48a20c18738587d06d33b43f8a9fc890
+Ім'я та прізвище було додано швидше у текстовий файл list-of-users.txt.
  
 4.
 ![](http://i.piccy.info/i9/5eb0210ae66dcfbac0c633ae13154ae2/1478533761/177410/1086149/Bez_men_.png)
